@@ -1,3 +1,7 @@
+# Login Info
+ "email": "eve.holt@reqres.in"
+ "password": "cityslicka"
+
 # flutter_login_bloc
 
 A new Flutter project.
