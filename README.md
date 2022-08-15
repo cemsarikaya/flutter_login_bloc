@@ -1,6 +1,6 @@
 # Login Info
- "email": "eve.holt@reqres.in"
- "password": "cityslicka"
+ email: eve.holt@reqres.in ,
+ password: cityslicka
 
 # flutter_login_bloc
 
